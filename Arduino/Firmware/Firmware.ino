@@ -9,6 +9,7 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
+#define IRPROXIMITY_PIN_VOUT	A3
 
 
 // =======================Pin Definitions // ===================================
